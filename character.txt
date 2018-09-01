@@ -1,0 +1,3 @@
+name=chen_zhe
+image=cz.bmp
+sample=xiaoxingxing.wav
